@@ -1,19 +1,50 @@
-<h1 align="center">Hi 👋, I'm Syed Mohammad Zoran Rizvi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Syed Mohammad Zoran Rizvi</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zoran678&label=Profile%20views&color=0e75b6&style=flat" alt="zoran678" /> </p>
+<p align="center">
+Developer • Flutter Enthusiast • AI Explorer
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoran678" alt="zoran678" /></a> </p>
+<p align="center">
+  <a href="mailto:zoranmailme678@gmail.com">Email</a> •
+  <a href="https://github.com/zoran678">GitHub</a>
+</p>
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 📫 How to reach me **zoranmailme678@gmail.com**
+### About Me
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎓 Student and developer from India
+- 📱 Building cross-platform applications with Flutter & Firebase
+- 🤖 Exploring AI, Machine Learning, and Smart Grid Technologies
+- 🐍 Learning Python and expanding my software development skills
+- 🎮 Interested in game development and creative coding
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoran678&show_icons=true&locale=en&layout=compact" alt="zoran678" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoran678&show_icons=true&locale=en" alt="zoran678" /></p>
+### Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoran678&" alt="zoran678" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,docker,git,github,vscode" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zoran678&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoran678&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+### Current Focus
+
+- Flutter & Firebase Development
+- Python Programming
+- AI & Intelligent Systems
+- Open Source Learning
+
+---
+
+> "Building useful software while continuously learning."
